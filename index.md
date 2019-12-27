@@ -110,7 +110,7 @@ Everyone who participates in Carpentries activities is required to conform to th
 We will use this <a href="{{page.collaborative_notes}}">TBA collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 <hr/>
-{% endif %}
+
 
 
 
