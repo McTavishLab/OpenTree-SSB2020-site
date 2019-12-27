@@ -12,10 +12,11 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
+*We have borrowed the Carpentries website template, Code of Conduct and installation instructions, this this is **not** a Carpentries workshop. Learn more about the carpentries at https://carpentries.org/*
+
 
 <h2 id="general">Using the Open Tree of Life for your Research</h2>
 
-*We have borrowed the Carpentries website template, Code of Conduct and installation instructions. Learn more about the carpentries at https://carpentries.org/*
 
 
 Content: The Open Tree of Life project is a phylogenetic resource that offers a synthetic tree summarizing evolutionary relationships across 2.6 million taxa. OpenTree (as of September 2019) also provides access to 4,168 published studies comprising 9,367 trees, and the database is growing weekly. The tips of these trees are mapped to taxonomic identifiers that link across taxonomic and informatics databases such as NCBI and The Global Biodiversity Information Facility (GBIF).
