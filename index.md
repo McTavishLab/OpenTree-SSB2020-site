@@ -15,8 +15,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h2 id="general">General Information</h2>
 
-INTRODUCTION
- We have borrowed the Carpentries website template, Code of Conduct and installation instructions. Learn more about the carpentries at https://carpentries.org/
+We have borrowed the Carpentries website template, Code of Conduct and installation instructions. Learn more about the carpentries at https://carpentries.org/
 
 {% comment %}
 DATE
