@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "SSB 2020"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Open Tree, SSB 2020"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Hotel Indigo"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
@@ -99,21 +99,8 @@ CODE OF CONDUCT
 <p>
 Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.
 
-{% comment %}
-Collaborative Notes
-
-If you want to use an Etherpad, go to
-
-http://pad.carpentries.org/YYYY-MM-DD-site
-
-where 'YYYY-MM-DD-site' is the identifier for your workshop,
-e.g., '2015-06-10-esu'.
-{% endcomment %}
-{% if page.collaborative_notes %}
-<h2 id="collaborative_notes">Collaborative Notes</h2>
-
 <p>
-We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+We will use this <a href="{{page.collaborative_notes}}">TBA collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 <hr/>
 {% endif %}
@@ -141,15 +128,7 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
-  To participate in a
-  {% if site.carpentry == "swc" %}
-  Software Carpentry
-  {% elsif site.carpentry == "dc" %}
-  Data Carpentry
-  {% elsif site.carpentry == "lc" %}
-  Library Carpentry
-  {% endif %}
-  workshop,
+  To participate in this workshop,
   you will need access to the software described below.
   In addition, you will need an up-to-date web browser.
 </p>
