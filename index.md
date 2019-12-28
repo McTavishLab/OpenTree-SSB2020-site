@@ -141,13 +141,18 @@ please preview your site before committing, and make sure to run
   In addition, you will need an up-to-date web browser.
   
   If you already have these software installed and accessible on you laptop, please check by
-  ```
+
+<code>
   jupyter notebook
   git
-  ```
+</code>
   
   
-  you're set! Otherwise, please follow the instructions below, and then try these tests.
+ If you get:
+ <code>
+ some kinda result
+ </code>
+ Otherwise, please follow the instructions below, and then try these tests.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
