@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "Open Tree, SSB 2020"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Using the Open Tree of Life for your Research, SSB 2020"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Hotel Indigo"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
@@ -143,32 +143,58 @@ please preview your site before committing, and make sure to run
   you will need to be able to access RStudio, Python3 and Jupyter notebooks, and use git to clone repos.
   In addition, you will need an up-to-date web browser.
   
-  If you already have these software installed and accessible on you laptop, please check by
+  If you already have these software installed and accessible on your laptop, please skip to the bottom and run the checks. 
+  Otherwise there are installation instructions listed below.
 </p>
+
 <p>
-<code>
-  jupyter notebook  
-  git  
-</code>
-</p>
-<p>  
-  
- If you get:
- </p>
-<p>
- <code>
- some kinda result
- </code>
-  <br>
-  Then you are all set!   
- Otherwise, please follow the instructions below, and then try these tests again.
-</p>
-<p>
-  We maintain a list of common issues that occur during installation as a reference for instructors
+  The Carpentries maintains a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
-  <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
+  <a href = "https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
 
 {% include setup.html %}
 
+<h2 id="Installation checks">Installation checks (Please complete before the workshop starts)</h2>
+<p>
+
+
+<h3 id="git check">Git check</h3>
+
+You should be able to open a terminal window and run:
+
+<pre>
+    git
+</pre>
+
+This should print out some text that starts with "usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]"
+<h3 id="Jupyter check">Jupyter check</h3>
+
+<pre>
+    jupyter notebook
+</pre>
+
+This should open up a browser window that says "jupyter" at the top. If you click on 'new' in the upper right, there should be an option to create a python3 notebook.
+
+(You can close this window and close the terminal.)  
+
+
+<h3 id="RStudio check">RStudio check</h3>
+
+<p>  
+  Open RStudio. Click in the 'console' window. (It's the one with the '>')  
+
+ Run:  
+
+ <pre>
+    > version$version.string
+    > 
+ </pre>
+
+ Make sure your version is at least 3.6.0 or higher.  
+
+  <br>
+If theses checks work, then you are all set!   
+ Otherwise, please follow the installation instructions above, and then try these tests again. Contact <a href='mailto:{{page.email}}'>{{page.email}}</a> if you are still having issues.
+</p>
