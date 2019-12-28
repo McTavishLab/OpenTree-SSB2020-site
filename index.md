@@ -12,7 +12,7 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
-*We have borrowed the Carpentries website template and installation instructions. This is **not** a Carpentries workshop (although we highly reccomend them!). Learn more about the carpentries at https://carpentries.org/*
+*We have borrowed the Carpentries website template and installation instructions. This is **not** a Carpentries workshop (although we highly recommend them!). Learn more about the carpentries at https://carpentries.org/*
 
 
 <h2 id="general">Using the Open Tree of Life for your Research</h2>
@@ -140,7 +140,14 @@ please preview your site before committing, and make sure to run
   you will need to be able to access RStudio, Python3 and Jupyter notebooks, and use git to clone repos.
   In addition, you will need an up-to-date web browser.
   
-  If you already have these software installed and accessible on you laptop, you're set! Otherwise, please follow the instructions below.
+  If you already have these software installed and accessible on you laptop, please check by
+  ```
+  jupyter notebook
+  git
+  ```
+  
+  
+  you're set! Otherwise, please follow the instructions below, and then try these tests.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
