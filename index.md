@@ -106,7 +106,7 @@ CODE OF CONDUCT
 
 <p>
 Everyone who participates in SSB2020 is required to conform to the <a href="https://systbiol.github.io/ssb2020/code_of_conduct.html">Code of Conduct</a>.
-
+</p>
 <p>
 We will use this <a href="{{page.collaborative_notes}}">TBA collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
@@ -141,18 +141,22 @@ please preview your site before committing, and make sure to run
   In addition, you will need an up-to-date web browser.
   
   If you already have these software installed and accessible on you laptop, please check by
-
+</p>
+<p>
 <code>
   jupyter notebook
   git
 </code>
-  
+</p>
+<p>  
   
  If you get:
+ </p>
+<p>
  <code>
  some kinda result
  </code>
- Otherwise, please follow the instructions below, and then try these tests.
+ Otherwise, please follow the instructions below, and then try these tests again.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
