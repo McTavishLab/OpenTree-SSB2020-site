@@ -137,8 +137,10 @@ please preview your site before committing, and make sure to run
 
 <p>
   To participate in this workshop,
-  you will need access to the software described below.
+  you will need to be able to access RStudio, Python3 and Jupyter notebooks, and use git to clone repos.
   In addition, you will need an up-to-date web browser.
+  
+  If you already have these software installed and accessible on you laptop, you're set! Otherwise, please follow the instructions below.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
@@ -148,8 +150,4 @@ please preview your site before committing, and make sure to run
 
 {% if site.carpentry == "swc" %}
 {% include swc/setup.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/setup.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/setup.html %}
 {% endif %}
