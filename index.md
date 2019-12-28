@@ -144,8 +144,8 @@ please preview your site before committing, and make sure to run
 </p>
 <p>
 <code>
-  jupyter notebook
-  git
+  jupyter notebook  
+  git  
 </code>
 </p>
 <p>  
@@ -156,6 +156,8 @@ please preview your site before committing, and make sure to run
  <code>
  some kinda result
  </code>
+  <br>
+  Then you are all set!   
  Otherwise, please follow the instructions below, and then try these tests again.
 </p>
 <p>
