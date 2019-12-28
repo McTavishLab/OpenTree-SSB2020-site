@@ -169,6 +169,6 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
-{% if site.carpentry == "swc" %}
-{% include swc/setup.html %}
-{% endif %}
+
+{% include setup.html %}
+
