@@ -107,8 +107,11 @@ CODE OF CONDUCT
 <p>
 Everyone who participates in SSB2020 is required to conform to the <a href="https://systbiol.github.io/ssb2020/code_of_conduct.html">Code of Conduct</a>.
 </p>
+
+<h2 id="notes">Collaborative Notes Document</h2>
+
 <p>
-We will use this <a href="{{page.collaborative_notes}}">TBA collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+We will use this <a href="tba">TBA collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 <hr/>
 
