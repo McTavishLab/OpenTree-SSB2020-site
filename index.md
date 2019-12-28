@@ -12,7 +12,7 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
-*We have borrowed the Carpentries website template, Code of Conduct and installation instructions, this this is **not** a Carpentries workshop. Learn more about the carpentries at https://carpentries.org/*
+*We have borrowed the Carpentries website template and installation instructions. This is **not** a Carpentries workshop (although we highly reccomend them!). Learn more about the carpentries at https://carpentries.org/*
 
 
 <h2 id="general">Using the Open Tree of Life for your Research</h2>
@@ -105,7 +105,7 @@ CODE OF CONDUCT
 <h2 id="code-of-conduct">Code of Conduct</h2>
 
 <p>
-Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.
+Everyone who participates in SSB2020 is required to conform to the <a href="https://systbiol.github.io/ssb2020/code_of_conduct.html">Code of Conduct</a>.
 
 <p>
 We will use this <a href="{{page.collaborative_notes}}">TBA collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
